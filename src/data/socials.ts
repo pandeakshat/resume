@@ -21,7 +21,7 @@ export const SOCIALS = [
   },
   {
     name: "Dribbble",
-    url: "https://dribbble.com/iamvr",
+    url: "https://dribbble.com/pandeakshat",
     icon: IconDribbble,
   },
 ];

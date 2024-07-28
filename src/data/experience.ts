@@ -7,15 +7,12 @@ export const EXPERIENCE: ExperienceProp[] = [
     company: "DualChain Ltd.",
     companyUrl: "https://www.dualchain.io",
     description:
-      "Designed and architected dutch.com, utilizing technologies such as Shopify Storefront API, Admin API, Vue.JS, Node.JS, Liquid, Alpine.js, and Tailwind. Worked on integrating with the ReCharge subscription system and collaborated closely with designers to implement pixel-perfect layouts and user flows.",
+      "In my current role as Head of Development at Dualchain, I lead the development of a carbon-negative blockchain exchange aimed at addressing global famine and climate change. I direct the vision and strategic development of climate-conscious technologies and blockchain innovations. My expertise in utilizing disruptive technologies has been instrumental in creating digital solutions projected to improve efficiency by 15%.",
     technologies: [
-      "Shopify Storefront API",
-      "Shopify Admin API",
-      "Vue.JS",
-      "Node.JS",
-      "Liquid",
-      "Alpine.js",
-      "Tailwind",
+      "Leadership",
+      "Strategic Development",
+      "Technical Proficiency",
+      "Process Optimization",
     ],
     logo: "/logos/aws.jpeg",
   },
@@ -25,17 +22,13 @@ export const EXPERIENCE: ExperienceProp[] = [
     company: "Sloane Square Hotel Ltd",
     companyUrl: "https://www.sloanesquarehotel.co.uk",
     description:
-      "Developed and maintained e-commerce solutions on Shopify (Storefront API, Admin API), BigCommerce, and Magento using React JS, Vue JS, Node JS, Liquid, SASS/PostCSS. Worked on integrating with the ReCharge subscription system and collaborated closely with designers to implement pixel-perfect layouts and user flows.",
+      "As a Night Auditor at Sloane Square Hotel, I conduct nightly financial audits, ensuring 100% accuracy in transaction records and reconciliations. I manage front desk operations during night shifts, handling an average of 15 guest check-ins/check-outs per shift. By utilizing innovative digital solutions, I have achieved a 25% increase in operational efficiency and a 15% rise in positive reviews.",
     technologies: [
-      "React JS",
-      "Vue JS",
-      "Node JS",
-      "Shopify Storefront API",
-      "Shopify Admin API",
-      "BigCommerce",
-      "Magento",
-      "Liquid",
-      "SASS/PostCSS",
+      "Customer Relationship Management",
+      "Analytical Thinking",
+      "Time Management",
+      "Financial Auditing & Reporting",
+
     ],
     logo: "/logos/aws.jpeg",
   },
@@ -45,8 +38,8 @@ export const EXPERIENCE: ExperienceProp[] = [
     company: "Homes for Students Ltd.",
     companyUrl: "https://www.homesforstudents.co.uk",
     description:
-      "Created a Design System for the internal system using Figma. Developed a plugin for Figma to populate prototypes with real data to enhance the prototyping and testing experience. Conducted user research and testing, and created user flows, wireframes, and Hi-Fi prototypes.",
-    technologies: ["Figma"],
+      "In my role as a Senior Customer Service Advisor at Homes for Students LTD, I coordinated communications among teams and external contractors, reducing operational delays by 20%. I managed student allocation, financial oversight, auditing, and coordination, optimizing cross-functional team efficiency. By fostering a supportive community atmosphere and proactively addressing student concerns, I increased student reviews by 10%.",
+    technologies: ["Team Coordination", "Financial Oversight", "Community Building",],
     logo: "/logos/aws.jpeg",
   },
   {
@@ -55,8 +48,8 @@ export const EXPERIENCE: ExperienceProp[] = [
     company: "Homes for Students Ltd.",
     companyUrl: "https://www.homesforstudents.co.uk",
     description:
-      "Created a Design System for the internal system using Figma. Developed a plugin for Figma to populate prototypes with real data to enhance the prototyping and testing experience. Conducted user research and testing, and created user flows, wireframes, and Hi-Fi prototypes.",
-    technologies: ["Figma"],
+      "As a Customer Service Advisor, I managed accommodations for 100-150 students, promptly addressing their needs and concerns. I led initiatives to enhance service quality and student satisfaction, resulting in a 25% improvement and achieving top rankings within Bristol. Additionally, I oversaw student allocation, financial operations, and auditing, improving logistics efficiencies by 20%.",
+    technologies: ["Customer Service Excellence","Operational Efficiency","Problem Solving"],
     logo: "/logos/aws.jpeg",
   },
 ];
