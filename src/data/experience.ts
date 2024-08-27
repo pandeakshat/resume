@@ -14,7 +14,7 @@ export const EXPERIENCE: ExperienceProp[] = [
       "Technical Proficiency",
       "Process Optimization",
     ],
-    logo: "/logos/aws.jpeg",
+    logo: "/logos/dualchain.png",
   },
   {
     dates: "November 2023 — Present",
@@ -30,7 +30,7 @@ export const EXPERIENCE: ExperienceProp[] = [
       "Financial Auditing & Reporting",
 
     ],
-    logo: "/logos/aws.jpeg",
+    logo: "/logos/ssh.png",
   },
   {
     dates: "August 2023 — November 2023",
@@ -40,7 +40,7 @@ export const EXPERIENCE: ExperienceProp[] = [
     description:
       "In my role as a Senior Customer Service Advisor at Homes for Students LTD, I coordinated communications among teams and external contractors, reducing operational delays by 20%. I managed student allocation, financial oversight, auditing, and coordination, optimizing cross-functional team efficiency. By fostering a supportive community atmosphere and proactively addressing student concerns, I increased student reviews by 10%.",
     technologies: ["Team Coordination", "Financial Oversight", "Community Building",],
-    logo: "/logos/aws.jpeg",
+    logo: "/logos/hfs.png",
   },
   {
     dates: "April 2022 — August 2023",
@@ -50,6 +50,6 @@ export const EXPERIENCE: ExperienceProp[] = [
     description:
       "As a Customer Service Advisor, I managed accommodations for 100-150 students, promptly addressing their needs and concerns. I led initiatives to enhance service quality and student satisfaction, resulting in a 25% improvement and achieving top rankings within Bristol. Additionally, I oversaw student allocation, financial operations, and auditing, improving logistics efficiencies by 20%.",
     technologies: ["Customer Service Excellence","Operational Efficiency","Problem Solving"],
-    logo: "/logos/aws.jpeg",
+    logo: "/logos/hfs.png",
   },
 ];

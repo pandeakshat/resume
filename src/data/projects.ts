@@ -18,7 +18,6 @@ export const PROJECT: ProjectProp[] = [
       "BeautifulSoup",
       "WordCloud",
     ],
-    logo: "/logos/aws.jpeg",
   },
   {
     dates: "December 2022",
@@ -36,7 +35,6 @@ export const PROJECT: ProjectProp[] = [
       "Numpy",
       "Seaborn",
     ],
-    logo: "/logos/aws.jpeg",
   },
   {
     dates: "February 2024",
@@ -55,7 +53,6 @@ export const PROJECT: ProjectProp[] = [
       "Pandas",
       "Numpy",
     ],
-    logo: "/logos/aws.jpeg",
   },
   {
     dates: "November 2023",
@@ -76,7 +73,6 @@ export const PROJECT: ProjectProp[] = [
       "Matplotlib",
       "Seaborn",
     ],
-    logo: "/logos/aws.jpeg",
   },
   {
     dates: "August 2024",
@@ -95,7 +91,6 @@ export const PROJECT: ProjectProp[] = [
       "Seaborn",
       "BeautifulSoup"
     ],
-    logo: "/logos/aws.jpeg",
   },
   {
     dates: "August 2024",
@@ -113,7 +108,6 @@ export const PROJECT: ProjectProp[] = [
       "Seaborn",
       "Numpy",
     ],
-    logo: "/logos/aws.jpeg",
   },
   {
     dates: "June 2024",
@@ -128,7 +122,6 @@ export const PROJECT: ProjectProp[] = [
       "Streamlit",
       "API",
     ],
-    logo: "/logos/aws.jpeg",
   },
   {
     dates: "September 2023",
@@ -148,6 +141,5 @@ export const PROJECT: ProjectProp[] = [
       "Numpy",
       "NLTK",
     ],
-    logo: "/logos/aws.jpeg",
   },
 ];

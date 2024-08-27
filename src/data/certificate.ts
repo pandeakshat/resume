@@ -18,7 +18,7 @@ export const CERTIFICATE: CertificateProp[] = [
       "General Statistics",
       "Business Communication",
     ],
-    logo: "/logos/aws.jpeg",
+    logo: "/logos/google.png",
   },
   {
     dates: "November 2023",
@@ -33,7 +33,7 @@ export const CERTIFICATE: CertificateProp[] = [
       "Equities",
       "Terminal",
     ],
-    logo: "/logos/aws.jpeg",
+    logo: "/logos/bloomberg.png",
   },
   {
     dates: "November 2023",
@@ -49,7 +49,7 @@ export const CERTIFICATE: CertificateProp[] = [
       "Risk and Reward",
       "Portfolio Management",
     ],
-    logo: "/logos/aws.jpeg",
+    logo: "/logos/bloomberg.png",
   },
   {
     dates: "November 2023",
@@ -66,7 +66,7 @@ export const CERTIFICATE: CertificateProp[] = [
       "Positive and Negative Screening",
       "Reporting",
     ],
-    logo: "/logos/aws.jpeg",
+    logo: "/logos/bloomberg.png",
   },
 
 ];
