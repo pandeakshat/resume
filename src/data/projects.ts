@@ -5,7 +5,7 @@ export const PROJECT: ProjectProp[] = [
     dates: "July 2024",
     title: "Customer Sentiment Analysis",
     company: " ",
-    companyUrl: "",
+    companyUrl: "https://hotel-customer-review.streamlit.app/",
     description:
       "A comprehensive project that analyses reviews and feedback to extract sentiments and key themes. Core functionalities of the project include: Sentiment analysis, text processing, data visualization, and actionable insights",
     technologies: [
@@ -40,7 +40,7 @@ export const PROJECT: ProjectProp[] = [
     dates: "February 2024",
     title: "Recommendation System",
     company: " ",
-    companyUrl: "",
+    companyUrl: "https://recommendation-system-pandeakshat.streamlit.app/",
     description:
       "A recommendation system that covers multiple genre to provide comprehensive suggestions based on defined input.",
     technologies: [
@@ -58,7 +58,7 @@ export const PROJECT: ProjectProp[] = [
     dates: "November 2023",
     title: "BSE Simulation",
     company: " ",
-    companyUrl: "",
+    companyUrl: "https://bse-simulation.streamlit.app/",
     description:
       "A simulation system based on the Bristol Stock Exchange developed by professors at University of Bristol. This comprehensive utility provides an easier access to workshop material in an interactive manner.",
     technologies: [
@@ -113,7 +113,7 @@ export const PROJECT: ProjectProp[] = [
     dates: "June 2024",
     title: "Status Window",
     company: " ",
-    companyUrl: "",
+    companyUrl: "status.pandeakshat.com",
     description:
       "Gamification of life using attributes and experience points from daily activities. Core functionalities of the project include: gamification logic, data processing, data visualization",
     technologies: [
@@ -127,7 +127,7 @@ export const PROJECT: ProjectProp[] = [
     dates: "September 2023",
     title: "Anime Wisdom Vault",
     company: " ",
-    companyUrl: "",
+    companyUrl: "https://animewisdomvault.streamlit.app/",
     description:
       "Collection of quotes from different animes. Core functionalities of the project: Web scraping, sentiment analysis, quote generation, data visualization.",
     technologies: [
